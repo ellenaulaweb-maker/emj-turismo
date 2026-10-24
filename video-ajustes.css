@@ -1,6 +1,0 @@
-/* Ajustes finais do vídeo EMJ Turismo */
-.mascot-side { padding: 6px; }
-.mascot-side-video, .mascot-video-crop { width: 110px; max-width: 110px; margin: 0 auto; border: 2px solid #73ff75; border-radius: 12px; box-shadow: 0 0 0 1px rgba(115,255,117,.75), 0 0 10px rgba(41,255,139,.95), 0 0 24px rgba(41,255,139,.58), inset 0 0 16px rgba(41,255,139,.22); }
-.mascot-video-crop video { width: 100%; max-width: 110px; height: auto; display: block; object-fit: contain; }
-@media(max-width:900px){ .mascot-side, .mascot-side-video, .mascot-video-crop, .mascot-video-crop video { width: 140px; max-width: 140px; } }
-@media(max-width:560px){ .mascot-side, .mascot-side-video, .mascot-video-crop, .mascot-video-crop video { width: 125px; max-width: 125px; } }
